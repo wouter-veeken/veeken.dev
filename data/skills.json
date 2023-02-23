@@ -1,0 +1,9 @@
+[
+  {
+      "grouping":"Programming & cloud",
+      "skills":[ "Python","Microsoft Azure","SQL"]
+  },{
+      "grouping":"Business intelligence",
+      "skills":[ "Microsoft Power BI"]
+  }  
+]
