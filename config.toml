@@ -1,5 +1,5 @@
 title = "Sander Veeken"
-baseURL = "https://example.com/"
+baseURL = "https://veeken-dev.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -8,8 +8,8 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Halfweg, NH"
-email = "email@domain.com"
+address = "Halfweg, The Netherlands"
+email = "sander@veeken.dev"
 favicon = "/favicon.ico"
 firstName = "Sander"
 lastName = "Veeken"
@@ -32,6 +32,12 @@ trackerID = "XX-123446-01"
 [[params.handles]]
 link = "https://www.linkedin.com/in/sander-veeken-388528250/"
 name = "LinkedIn"
+icon = "linkedin"
+
+[[params.handles]]
+link = "mailto:sander@veeken.dev"
+name = "Email"
+icon = "at"
 
 # [[params.handles]]
 # link = "https://github.com/eddiewebb/"

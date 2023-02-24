@@ -2,7 +2,9 @@
 title: 'Amount-per-day column'
 date: Thu, 15 Feb 2023 12:00:00 +0000
 draft: false
+description: "Hello"
 tags: [powerbi, powerquery]
+featured: true
 ---
 
 When your sales are not items but services spread out over time, it can be difficult to keep track of how much you have delivered. One possible way in PowerBI, is to generate a list of days that the service lasts for each record, using PowerQuery, and then divide price over those days. But even with a few thousand original records, you soon end up with millions of rows and your model can get slow.
