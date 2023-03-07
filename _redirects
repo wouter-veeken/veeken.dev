@@ -1,0 +1,2 @@
+http://veeken-dev.netlify.app/* http://veeken.dev/:splat 301!
+https://veeken-dev.netlify.app/* https://veeken.dev/:splat 301!
