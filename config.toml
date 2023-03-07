@@ -1,10 +1,10 @@
 title = "Sander Veeken"
-baseURL = "https://veeken-dev.netlify.app/"
+baseURL = "https://veeken.dev/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
-PygmentsCodeFencesGuessSyntax = true
-PygmentsStyle = "monokai"
+PygmentsCodeFencesGuessSyntax = false
+PygmentsStyle = "default"
 enableGitInfo = false
 
 [params]
